@@ -94,7 +94,7 @@ Depois acesse: http://localhost:6006
 
 ## 📖 Guias
 
-- [Configuração de Agents](./agent/AGENTS.md)
+- [Configuração de Agents](./.agent/AGENTS.md)
 - [Design System](http://localhost:6006/?path=/docs/design-system-introdução--docs) - Documentação completa
 
 ## 🤝 Contribuindo
