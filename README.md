@@ -1,10 +1,9 @@
-# 📱 LinkService - Sistema de Gestão de Mensagens WhatsApp
+# 📱 Templorios - Template React + NestJS + Prisma + PostgreSQL
 
-Sistema de gestão de envio de mensagens para múltiplos clientes no WhatsApp usando web-whatsapp.js.
+Template completo para desenvolvimento de aplicativos web.
 
 ## 🎨 Design System
 
-Nosso design system utiliza uma paleta moderna e vibrante:
 - **Cor Primária:** Laranja (#f97316) - Energia e comunicação
 - **Cor Secundária:** Cinza meio-tom (#71717a) - Profissionalismo e equilíbrio
 - **Suporte:** Light e Dark mode completo
