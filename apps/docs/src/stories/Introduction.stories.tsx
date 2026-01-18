@@ -103,10 +103,10 @@ const ColorGrid = styled.div`
 const IntroductionPage = () => {
     return (
         <Container>
-            <Title>🎨 Design System - LinkService</Title>
+            <Title>🎨 Design System - Templorios</Title>
 
             <Paragraph>
-                Bem-vindo ao Design System do <strong>LinkService</strong>, um sistema de gestão de envio de mensagens WhatsApp.
+                Bem-vindo ao Design System do <strong>Templorios</strong>, um template para criação de sistemas web.
             </Paragraph>
 
             <Section>
