@@ -9,6 +9,11 @@ const preview: Preview = {
         date: /Date$/i,
       },
     },
+    options: {
+      storySort: {
+        order: ['Design System', ['Introdução', 'Tokens'], 'UI', 'Form', 'Layout'],
+      },
+    },
 
     a11y: {
       // 'todo' - show a11y violations in the test UI only
